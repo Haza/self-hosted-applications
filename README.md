@@ -35,7 +35,7 @@ PHP
 + Miscellaneous
   + [Poche](http://inthepoche.com/): a read-it-later clone (french)
 
-JAVA
+Java
 ----
 + CVS / Code Review
   + [Gerrit](https://code.google.com/p/gerrit/)
@@ -45,7 +45,7 @@ JAVA
   + [Hudson](http://hudson-ci.org/)
   
 Ruby / Ruby on Rails
-
+----
 + CVS / Code Review
   +   [GitLab](http://gitlab.org/)
 
