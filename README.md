@@ -16,6 +16,7 @@ PHP
 + Forums
   + [phpBB](https://www.phpbb.com/)
   + [Simple Machine Forum](http://simplemachines.org/)
+  + [Vanilla](http://vanillaforums.org/)
 
 + Social 
   + [ThinkUp](https://www.thinkup.com/) 
