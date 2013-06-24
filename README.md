@@ -43,7 +43,10 @@ JAVA
   + [Jenkins](http://jenkins-ci.org/)
   + [Hudson](http://hudson-ci.org/)
   
+Ruby / Ruby on Rails
 
++ CVS / Code Review
+  +   [GitLab](http://gitlab.org/)
 
   
 
