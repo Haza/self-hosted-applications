@@ -12,6 +12,8 @@ PHP
   + [iGallerie](http://www.igalerie.org) (french)
   + [Coppermine](http://coppermine-gallery.net/)
   + [CF ImageHost](http://www.codefuture.co.uk/projects/imagehost/): a "imgur" like tool
+  + [Piwigo](http://piwigo.org/)
+  + [Minigal Nano SSE](https://github.com/sebsauvage/MinigalNano)
   
 + Forums
   + [phpBB](https://www.phpbb.com/)
