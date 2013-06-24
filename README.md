@@ -34,8 +34,8 @@ PHP
 + Miscellaneous
   + [Poche](http://inthepoche.com/): a read-it-later clone (french)
 
-PHP
----
+JAVA
+----
 + CVS / Code Review
   + [Gerrit](https://code.google.com/p/gerrit/)
 
