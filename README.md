@@ -3,10 +3,10 @@
 
 A list of self hosted web tool/application collected over time. Pull requests are welcome.
 
-*Table of Contents** 	
-	- [PHP](#php)
-	- [Java](#java)
-	- [Ruby / Ruby on Rails](#ruby--ruby-on-rails)
+**Table of Contents** 	
+  - [PHP](#php)
+  - [Java](#java)
+  - [Ruby / Ruby on Rails](#ruby--ruby-on-rails)
 
 PHP
 ---
