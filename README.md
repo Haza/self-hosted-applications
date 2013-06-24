@@ -27,9 +27,22 @@ PHP
 + Pastebin like
   + [ZeroBin](http://sebsauvage.net/wiki/doku.php?id=php:zerobin)
 
++ Wiki
+  + [DokuWiki](https://www.dokuwiki.org/dokuwiki)
+  + [MediaWiki](http://www.mediawiki.org/)
+
 + Miscellaneous
   + [Poche](http://inthepoche.com/): a read-it-later clone (french)
 
+PHP
+---
++ CVS / Code Review
+  + [Gerrit](https://code.google.com/p/gerrit/)
+
++ Continuous integration
+  + [Jenkins](http://jenkins-ci.org/)
+  + [Hudson](http://hudson-ci.org/)
+  
 
 
   
