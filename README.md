@@ -1,7 +1,14 @@
-self-hosted-applications
+*self-hosted-applications
 ========================
 
 A list of self hosted web tool/application collected over time. Pull requests are welcome.
+
+*Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [self-hosted-applications](#self-hosted-applications)
+	- [PHP](#php)
+	- [Java](#java)
+	- [Ruby / Ruby on Rails](#ruby--ruby-on-rails)
 
 PHP
 ---
