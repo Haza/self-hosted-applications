@@ -7,4 +7,5 @@ A list of self hosted web tool/application collected over time. Pull requests ar
   - [PHP](content/php.md)
   - [Java](content/java.md)
   - [Ruby / Ruby on Rails](content/ruby.md)
+  - [Python](content/python.md)
 
