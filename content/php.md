@@ -26,6 +26,7 @@
 - RSS
   - [selfoss](http://selfoss.aditu.de/)
   - [TinyTiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)
+  - [Leed](http://projet.idleman.fr/leed/)
 
 - Share tools
   - [ZeroBin](http://sebsauvage.net/wiki/doku.php?id=php:zerobin): Pastebin like
