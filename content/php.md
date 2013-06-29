@@ -18,8 +18,9 @@
   - [iGallerie](http://www.igalerie.org) (french)
   - [Koken](http://koken.me)
   - [Minigal Nano SSE](https://github.com/sebsauvage/MinigalNano)
-  - [Piwigo](http://piwigo.org/)
   - [Photoshow](http://www.photoshow-gallery.com/)
+  - [Piwigo](http://piwigo.org/)
+  - [Plogger](http://www.plogger.org/)
   - [Zenphoto](http://www.zenphoto.org)
 
 - RSS
