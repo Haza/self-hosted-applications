@@ -3,6 +3,7 @@
 #Python
 
 - Newsgroup
+  - [CouchPotato](https://couchpota.to/)
   - [Sabnzbd](http://sabnzbd.org/)
   - [SickBeard](http://sickbeard.com/)
-  - [CouchPotato](https://couchpota.to/)
+
