@@ -6,6 +6,7 @@
   - [GitLab](http://gitlab.org/)
 
 - Project management
+  - [ChiliProject](https://www.chiliproject.org/)
   - [Redmine](http://www.redmine.org/) 
 
 - Miscellaneous
