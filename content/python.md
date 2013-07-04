@@ -7,3 +7,5 @@
   - [Sabnzbd](http://sabnzbd.org/)
   - [SickBeard](http://sickbeard.com/)
 
+- Video streaming
+  - [Plumi](http://plumi.org)

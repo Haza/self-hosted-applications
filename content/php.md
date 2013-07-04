@@ -3,14 +3,16 @@
 #PHP
 
 - Forums
+  - [Phorum](http://www.phorum.org/)
   - [phpBB](https://www.phpbb.com/)
+  - [PunBB](http://punbb.informer.com/)
   - [Simple Machine Forum](http://simplemachines.org/)
   - [Vanilla](http://vanillaforums.org/)
 
 - Miscellaneous
   - [myTinyTodo](http://www.mytinytodo.net/)
   - [Piwik](http://piwik.org): Web analytics platform
-  - [Poche](http://inthepoche.com/): a read-it-later clone (french)
+
 
 - Photo
   - [CF ImageHost](http://www.codefuture.co.uk/projects/imagehost/): a "imgur" like tool
@@ -37,6 +39,15 @@
 
 - Social
   - [ThinkUp](https://www.thinkup.com/)
+
+- Social bookmarking
+  - [Poche](http://inthepoche.com/): a read-it-later clone (french)
+  - [Scuttle](http://sourceforge.net/projects/scuttle/)
+
+- WebMail
+  - [IMP](http://www.horde.org/apps/imp/)
+  - [Roundcube](http://www.roundcube.net/)
+  - [SquirrelMail](http://www.squirrelmail.org/)
 
 - Wiki
   - [DokuWiki](https://www.dokuwiki.org/dokuwiki)
