@@ -24,8 +24,9 @@
   - [Zenphoto](http://www.zenphoto.org)
 
 - RSS
-  - [Leed](http://projet.idleman.fr/leed/)
   - [Fever](http://www.feedafever.com/) (paid application)
+  - [KrISS feed](http://tontof.net/kriss/feed/)  
+  - [Leed](http://projet.idleman.fr/leed/)
   - [selfoss](http://selfoss.aditu.de/)
   - [TinyTiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)
   
