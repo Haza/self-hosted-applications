@@ -34,6 +34,7 @@
   
 - Share tools
   - [AjaXplorer](http://ajaxplorer.info/): Alternative to saas “Box” solutions for the enterprise, turning server into a file sharing platform.
+  - [ownCloud](owncloud.org): dropbox like
   - [YOURLS](http://yourls.org/)
   - [ZeroBin](http://sebsauvage.net/wiki/doku.php?id=php:zerobin): Pastebin like
 
