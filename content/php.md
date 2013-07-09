@@ -2,6 +2,9 @@
 
 #PHP
 
+- CRM
+  - [SugarCRM](http://www.sugarcrm.com/)
+
 - Forums
   - [Phorum](http://www.phorum.org/)
   - [phpBB](https://www.phpbb.com/)
