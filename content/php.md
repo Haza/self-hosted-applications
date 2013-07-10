@@ -40,7 +40,9 @@
 - Share tools
   - [AjaXplorer](http://ajaxplorer.info/): Alternative to saas “Box” solutions for the enterprise, turning server into a file sharing platform.
   - [ownCloud](owncloud.org): dropbox like
-  - [YOURLS](http://yourls.org/)
+  - [phurl](https://code.google.com/p/phurl/): URL shortener
+  - [tighturl](http://tighturl.com/project/p/tighturl/): URL shortener
+  - [YOURLS](http://yourls.org/): URL shortener
   - [ZeroBin](http://sebsauvage.net/wiki/doku.php?id=php:zerobin): Pastebin like
 
 - Social
