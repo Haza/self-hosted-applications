@@ -2,6 +2,9 @@
 
 #PHP
 
+- Analytics
+  - [Piwik](http://piwik.org): Web analytics platform
+
 - CRM
   - [SugarCRM](http://www.sugarcrm.com/)
 
@@ -11,11 +14,6 @@
   - [PunBB](http://punbb.informer.com/)
   - [Simple Machine Forum](http://simplemachines.org/)
   - [Vanilla](http://vanillaforums.org/)
-
-- Miscellaneous
-  - [myTinyTodo](http://www.mytinytodo.net/)
-  - [Piwik](http://piwik.org): Web analytics platform
-
 
 - Photo
   - [CF ImageHost](http://www.codefuture.co.uk/projects/imagehost/): a "imgur" like tool
@@ -27,6 +25,10 @@
   - [Piwigo](http://piwigo.org/)
   - [Plogger](http://www.plogger.org/)
   - [Zenphoto](http://www.zenphoto.org)
+
+- Productivity
+  - [myTinyTodo](http://www.mytinytodo.net/)
+  - [ForgetMeNot](https://github.com/hswolff/forgetmenot)
 
 - RSS
   - [Fever](http://www.feedafever.com/) (paid application)
