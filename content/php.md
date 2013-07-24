@@ -35,8 +35,10 @@
   - [Fever](http://www.feedafever.com/) (paid application)
   - [KrISS feed](http://tontof.net/kriss/feed/)  
   - [Leed](http://projet.idleman.fr/leed/)
+  - [MiniFlux](http://miniflux.net/)  
   - [selfoss](http://selfoss.aditu.de/)
   - [TinyTiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)
+  
   
 - Share tools
   - [AjaXplorer](http://ajaxplorer.info/): Alternative to saas “Box” solutions for the enterprise, turning server into a file sharing platform.
