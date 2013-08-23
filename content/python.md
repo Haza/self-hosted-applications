@@ -12,3 +12,6 @@
 
 - Video streaming
   - [Plumi](http://plumi.org)
+
+- Webmail
+  - [Mailpile](http://www.mailpile.is/)
