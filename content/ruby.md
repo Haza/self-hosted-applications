@@ -13,4 +13,5 @@
   - [Redmine](http://www.redmine.org/) 
 
 
-
+- RSS
+  - [Feedbin](https://github.com/feedbin/feedbin)
