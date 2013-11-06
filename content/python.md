@@ -15,3 +15,6 @@
 
 - Webmail
   - [Mailpile](http://www.mailpile.is/)
+
+- PasteBin-like
+  - [DPaste](https://github.com/bartTC/dpaste) 
