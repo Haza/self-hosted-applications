@@ -53,7 +53,7 @@
   - [Movim](http://movim.eu/?q=mainPage): self-hosted social network.
 
 - Social bookmarking
-  - [Poche](http://inthepoche.com/): a read-it-later clone (french)
+  - [Wallabag](http://www.wallabag.org/): a read-it-later clone, formerly "Poche" (french)
   - [Scuttle](http://sourceforge.net/projects/scuttle/)
 
 - WebMail
