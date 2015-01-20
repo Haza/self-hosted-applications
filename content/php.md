@@ -30,6 +30,7 @@
   - [myTinyTodo](http://www.mytinytodo.net/)
   - [ForgetMeNot](https://github.com/hswolff/forgetmenot)
   - [FusionInvoice](http://fusioninvoice.com/): FusionInvoice is free and open source invoicing software built with freelancers and microbusinesses in mind.
+  - [LibreBoard](https://github.com/libreboard/libreboard) Trello like (kanban tool)
 
 - RSS
   - [Fever](http://www.feedafever.com/) (paid application)
