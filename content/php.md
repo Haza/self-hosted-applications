@@ -31,6 +31,7 @@
   - [ForgetMeNot](https://github.com/hswolff/forgetmenot)
   - [FusionInvoice](http://fusioninvoice.com/): FusionInvoice is free and open source invoicing software built with freelancers and microbusinesses in mind.
   - [LibreBoard](https://github.com/libreboard/libreboard) Trello like (kanban tool)
+  - [PaperWork](https://github.com/twostairs/paperwork) Note-takin tool (Evernote, Microsoft OneNote & Google Keep)
 
 - RSS
   - [Fever](http://www.feedafever.com/) (paid application)
