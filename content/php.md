@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Analytics](#analytics)
-- [Audio/video streaming](#audio/video-streaming)
-- [CalDAV / CardDAV](#caldav-/-carddav)
+- [Audio/video streaming](#audiovideo-streaming)
+- [CalDAV / CardDAV](#caldav--carddav)
 - [CRM](#crm)
 - [Forums](#forums)
 - [Photo](#photo)
@@ -42,7 +42,7 @@
   - [Simple Machine Forum](http://simplemachines.org/)
   - [Vanilla](http://vanillaforums.org/)
 
-###Photo
+### Photo
   - [CF ImageHost](http://www.codefuture.co.uk/projects/imagehost/) | a "imgur" like tool
   - [Coppermine](http://coppermine-gallery.net/)
   - [iGallerie](http://www.igalerie.org)
